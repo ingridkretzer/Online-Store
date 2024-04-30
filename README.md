@@ -58,9 +58,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-project-frontend-online-store.git`.
+  - Use o comando: `git clone git@github.com:tryber/sd-040-project-frontend-online-store-ts.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-project-frontend-online-store`
+    - `cd sd-040-project-frontend-online-store-ts`
   - Vá para a branch do seu grupo:
     - `git checkout main-group-XX && git pull`, em que `XX` é o número do seu grupo. Exemplos: `main-group-1`, `main-group-22`.
 
@@ -97,7 +97,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-frontend-online-store/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-040-project-frontend-online-store-ts/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Coloque um título para a sua _Pull Request_
@@ -105,7 +105,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Clique no botão verde _"Create pull request"_.
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_.
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-frontend-online-store/pulls) e confira que o seu _Pull Request_ está criado
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-040-project-frontend-online-store-ts/pulls) e confira que o seu _Pull Request_ está criado
 
   7. Assim que estiver aprovado por pelo menos uma pessoa de seu grupo e o _Linter_ estiver adereçado (veja como nas próximas sessões), acesse **SEU** _Pull Request_ e clique no botão _"Merge pull request"_
   
